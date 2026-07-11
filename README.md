@@ -113,5 +113,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0143-reorder-list) |
+| [0232-implement-queue-using-stacks](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
