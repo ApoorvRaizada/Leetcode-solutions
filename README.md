@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0692-top-k-frequent-words](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 ## Binary Search
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0692-top-k-frequent-words](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 ## Heap (Priority Queue)
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -136,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
