@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0692-top-k-frequent-words](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0724-find-pivot-index](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0912-sort-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
