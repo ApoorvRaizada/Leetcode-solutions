@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0162-find-peak-element](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0283-move-zeroes](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0283-move-zeroes](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
