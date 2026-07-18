@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0371-sum-of-two-integers](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 ## Stack
 |  |
 | ------- |
