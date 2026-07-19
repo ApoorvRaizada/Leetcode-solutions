@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0912-sort-an-array) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Binary Search
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Bit Manipulation
 |  |
 | ------- |
