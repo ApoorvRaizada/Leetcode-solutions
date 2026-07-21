@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0162-find-peak-element](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0509-fibonacci-number](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0143-reorder-list) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0844-backspace-string-compare](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
@@ -177,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0724-find-pivot-index) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
