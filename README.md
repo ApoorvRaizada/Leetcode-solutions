@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0692-top-k-frequent-words](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Binary Search
@@ -33,11 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0509-fibonacci-number](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -188,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ApoorvRaizada/Leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
